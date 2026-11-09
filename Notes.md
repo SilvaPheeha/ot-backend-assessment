@@ -38,4 +38,4 @@ Open another terminal to Run the API and Consumer App
     + `dotnet run --project src/OT.Assessment.Consumer`
 
 ## Final Touches 
-- Create pipeline, Release 
+- Create pipeline and release 
